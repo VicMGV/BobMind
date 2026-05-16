@@ -59,4 +59,3 @@ def extract_keywords(text: str, max_keywords: int = 10) -> list:
     sorted_words = sorted(word_freq.items(), key=lambda x: x[1], reverse=True)
     return [word for word, freq in sorted_words[:max_keywords]]
 
-# Made with Bob
