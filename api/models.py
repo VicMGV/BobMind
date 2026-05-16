@@ -20,5 +20,3 @@ class HypothesisResponse(BaseModel):
     hypothesis: str
     profile: str
     documents_count: int
-
-# Made with Bob
