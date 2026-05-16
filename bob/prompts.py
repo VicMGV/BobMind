@@ -7,4 +7,3 @@ Currently, prompts are managed by the profile classes.
 
 # Placeholder for future prompt templates
 
-# Made with Bob
