@@ -1,5 +1,8 @@
-fastapi 
-uvicorn 
-python-dotenv 
-PyPDF2 
-python-multipart 
+fastapi
+uvicorn
+python-dotenv
+PyPDF2
+python-multipart
+python-docx
+ibm-watsonx-ai
+pydantic
