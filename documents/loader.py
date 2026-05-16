@@ -48,5 +48,3 @@ def load_document(filename: str, file_bytes: bytes) -> str:
     
     else:
         raise ValueError(f"Unsupported file type: {file_extension}. Supported types: txt, pdf, doc, docx, md")
-
-# Made with Bob
